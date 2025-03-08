@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Tugza**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **Graphql**
 
 - 👯 I’m looking to collaborate on **Nextjs Projects**
 
