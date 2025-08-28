@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mesele_shishay" target="blank"><img src="https://img.shields.io/twitter/follow/mesele_shishay?logo=twitter&style=for-the-badge" alt="mesele_shishay" /></a> </p>
 
-- 🔭 I’m currently working on **Tugza**
+- 🔭 I’m currently working as fullstack developer
 
 - 🌱 I’m currently learning **Graphql**
 
