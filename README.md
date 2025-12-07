@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **messeleshishaymm@gmail.com**
 
-- 📄 Know about my experiences [http://meselecodes.netlify.app/](http://meselecodes.netlify.app/)
+- 📄 Know about my experiences [http://meselecodes.vercel.app/](http://meselecodes.vercel.app/)
 
 - ⚡ Fun fact **I love blending technology and creativity—whether it's crafting software solutions or bringing ideas to life through 3D modeling and design!**
 
