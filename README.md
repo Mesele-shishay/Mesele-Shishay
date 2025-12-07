@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [http://meselecodes.netlify.app/](http://meselecodes.vercel.app/)
+- 👨‍💻 All of my projects are available at [http://meselecodes.vercel.app/](http://meselecodes.vercel.app/)
 
 - 📝 I regularly write articles on [https://meselecodes.medium.com/](https://meselecodes.medium.com/)
 
